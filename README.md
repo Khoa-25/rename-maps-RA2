@@ -21,10 +21,6 @@ Công cụ giao diện đồ họa (GUI) viết bằng Python giúp quản lý, 
     - **Cách 2 — Giữ nguyên số cũ & lấp chỗ trống cho map mới:** Giữ nguyên vị trí các map đã có số và ưu tiên điền map mới vào các số thứ tự đang bị trống.
 - **Bảng xem trước kết quả (Live Preview):**
   - Mở cửa sổ đối chiếu 3 cột (*Tên file hiện tại – Tên file sau khi đổi – Phân loại*) được phân màu trực quan theo từng nhóm thay đổi trước khi áp dụng lên ổ cứng.
-- **Đổi tên 2 bước an toàn (Two-Phase Rename):**
-  - Sử dụng tên file tạm gắn mã định danh duy nhất (`UUID`) trong quá trình xử lý, loại bỏ hoàn toàn nguy cơ xung đột hoặc ghi đè file khi lùi số hàng loạt.
-- **Giao diện Modern Dark Mode:**
-  - Thiết kế nền tối đồng bộ cả thanh tiêu đề Windows, tự động co giãn kích thước cửa sổ theo nội dung hiển thị.
 
 ---
 
